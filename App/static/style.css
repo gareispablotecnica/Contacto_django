@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.form_email{
+    background: #395080;
+    padding: 50px;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 950px;
+    border-radius: 20px;
+    color: white;
+}
+
+.btn{
+    width: 850px;
+}
